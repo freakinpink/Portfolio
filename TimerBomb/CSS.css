@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+div {
+    width: 100px;
+    height: 90px;
+    margin: 50px;
+    text-align: center;
+    padding-top: 20px;
+    color: aliceblue;
+    font-size:55px;
+    background-color: darkslateblue;
+}
+p{
+    color: brown;
+}

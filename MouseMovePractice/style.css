@@ -1,0 +1,10 @@
+div{
+    width: 50%;
+    height: 1000px;
+    background-color: antiquewhite;
+    cursor: url(fu.png),auto;
+}
+p{
+    height: 20px;
+    font-size: large;
+}
